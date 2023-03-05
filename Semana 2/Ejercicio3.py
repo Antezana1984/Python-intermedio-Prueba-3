@@ -1,6 +1,6 @@
 
 '''
-┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿   Cristian Antezana Pizarro
+┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿   Cristian Antezana Pizarro
 
 Figuras geométricas con POO
 
